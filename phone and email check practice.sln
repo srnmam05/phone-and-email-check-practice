@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "phone and email check practice", "phone and email check practice\phone and email check practice.pyproj", "{432DCC4E-5959-4E64-A743-039699EF2667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432DCC4E-5959-4E64-A743-039699EF2667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432DCC4E-5959-4E64-A743-039699EF2667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EDE2643-DFB9-4EB0-91B2-5C07E91E4EF0}
+	EndGlobalSection
+EndGlobal
